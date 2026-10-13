@@ -1,2 +1,2 @@
-# Cubey-Blade-Of-Artophous-
+# Cubey
 Official repository of the game Cubey
