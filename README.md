@@ -1,2 +1,2 @@
-# Cubey
-Official repository of the game Cubey
+# STDEV
+Official repository of the game developing team STDEV
